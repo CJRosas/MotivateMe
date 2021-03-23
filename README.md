@@ -12,7 +12,7 @@ Upon pressing the button, the user is presented with custom text, loaded in by t
 
 <img width="354" alt="Screen Shot 2021-03-23 at 1 50 13 PM" src="https://user-images.githubusercontent.com/42982968/112206554-11100900-8be4-11eb-9c40-fea8d9f7a926.png">
 
-This program is extremely easy to use, highly effective, and simple to customize.
+The button can be repeatedly pressed to present the user with more randomized custom messages. This program is extremely easy to use, highly effective, and simple to customize.
 
 # Customization
 Customization is very easy and can be achieved in 2 steps in the ViewController script:
