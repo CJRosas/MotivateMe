@@ -15,7 +15,7 @@ Upon pressing the button, the user is presented with custom text, loaded in by t
 The button can be repeatedly pressed to present the user with more randomized custom messages. This program is extremely easy to use, highly effective, and simple to customize.
 
 # Customization
-Customization is very easy and can be achieved in 2 steps in the ViewController script:
+Customization is very easy and can be achieved in 2 steps in the ViewController script (MotivateMe/ViewController.swift):
 1. Populate the "words" array with your own custom strings
 2. Change the upper bound of the random number generator in the GenerateText function to reflect the number of phrases you have loaded in the "words" array
 
